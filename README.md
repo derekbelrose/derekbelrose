@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Derek.
+
+I am a Solutions Architect for [BoxBoat](https://www.boxboat.com), an IBM company.
 
 <!--
 **derekbelrose/derekbelrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
